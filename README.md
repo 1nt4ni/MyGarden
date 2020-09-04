@@ -11,14 +11,14 @@
 > Ini adalah tampilan awal aplikasi kita dapat menambahkan tanaman yang nantinya akan kita siram di setiap waktunya
 > 
 > 
-![Screenshot1]() 
+![Screenshot1](https://github.com/1nt4ni/MyGarden/blob/master/Screenshot_2020-09-04-20-15-26-26.png) 
 ## Screenshots 
-> Setelah itu kita dapat menampilkan tanaman yang sudah kita tambahkan tadi di hp kita dengan menggunakan fitur Widget 
+> ini merupakan tanaman yang sudah kita tanam
 > 
 > 
-![Screenshot2]() 
+![Screenshot2](https://github.com/1nt4ni/MyGarden/blob/master/Screenshot_2020-09-04-20-13-19-30.png) 
 ## Screenshots 
-> Cara menembahkanya tekan layar sekitar 5detik kemudian pilih opsi widget dan cari app mygarden
+> kita dapat menampilkan tanaman yang sudah kita tambahkan tadi di hp kita dengan menggunakan fitur Widget
 > 
 > 
 ![Screenshot3]()
@@ -26,10 +26,10 @@
 > Tampilan dari fitur detail tanaman terdapat umur tanaman dan water meter 
 > 
 > 
-![Screenshot4]() 
+![Screenshot4](https://github.com/1nt4ni/MyGarden/blob/master/Screenshot_2020-09-04-20-14-42-83.png) 
 ## Screenshots 
 > Tampilan landscape
 > 
 > 
-![Screenshot5]() 
+![Screenshot5](https://github.com/1nt4ni/MyGarden/blob/master/Screenshot_2020-09-04-20-26-01-67.png) 
 
