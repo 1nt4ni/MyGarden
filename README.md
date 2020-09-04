@@ -21,7 +21,7 @@
 > kita dapat menampilkan tanaman yang sudah kita tambahkan tadi di hp kita dengan menggunakan fitur Widget
 > 
 > 
-![Screenshot3]()
+![Screenshot3](https://github.com/1nt4ni/MyGarden/blob/master/Screenshot_2020-09-04-20-34-48-17.png)
 ## Screenshots 
 > Tampilan dari fitur detail tanaman terdapat umur tanaman dan water meter 
 > 
